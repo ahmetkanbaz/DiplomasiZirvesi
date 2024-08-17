@@ -7,4 +7,4 @@ const Router = () => {
   return routes;
 };
 
-export default Router
+export default Router;
